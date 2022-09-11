@@ -1,5 +1,7 @@
 # Bernstein 2022 conference talk links
 
+Materials for the talk "How ants remember their way home".
+
 [The head direction circuit of two insect species, eLife, 2020.](https://elifesciences.org/articles/53985)
 This paper analyses and derives the underlying head direction neuronal circuit of two insect species, the fruit fly and the desert locust.
 
